@@ -1,0 +1,8 @@
+module.exports = {
+  extends: ["next/core-web-vitals"],
+  rules: {
+    "@typescript-eslint/ban-ts-comment": "off",
+    "react/jsx-no-comment-textnodes": "off",
+    "@next/next/no-html-link-for-pages": "off"
+  }
+}
