@@ -408,5 +408,3 @@ Throughout the enhancement process, we made several key design decisions that si
 The UI/UX improvements implemented for the Journal Dashboard application have transformed it from a functional prototype into a polished, intuitive, and engaging journaling tool. By addressing the identified issues and implementing thoughtful enhancements, we've created an experience that reduces friction, improves clarity, and encourages regular journaling.
 
 The focus on user-centered design principles has resulted in an application that not only looks better but also works better, with each enhancement carefully considered for its impact on the overall user experience. The modular component architecture, consistent design system, and performance optimizations ensure that the application can scale with user needs and additional features.
-
-For a more detailed explanation of the UI/UX improvements and design decisions, please refer to the `JournalDashboard_UI_UX_Documentation.docx` file.
