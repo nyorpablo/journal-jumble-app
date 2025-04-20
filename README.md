@@ -117,5 +117,3 @@ After reviewing the initial Journal Dashboard application, several UI/UX issues 
    - **Decision**: Implemented lazy loading for the main content area
    - **Rationale**: Improves initial load time and overall performance
    - **Impact**: Creates a more responsive application, especially on slower connections
-
-For a more detailed explanation of the UI/UX improvements and design decisions, please refer to the `JournalDashboard_UI_UX_Documentation.docx` file.
